@@ -6,7 +6,7 @@ Este repositório contém os exercícios desenvolvidos em **Portugol** durante a
 
 ## 📚 Sobre o Curso
 
-O curso **Profissão Developer** tem como objetivo formar profissionais com uma base sólida em programação, lógica e resolução de problemas. No módulo azul, aprendemos os fundamentos da lógica de programação utilizando Portugol, uma linguagem didática que facilita a transição para linguagens como JavaScript, Java e Python.
+O curso **Profissão Developer** tem como objetivo formar profissionais com uma base sólida em programação, lógica e resolução de problemas. No módulo azul, aprendemos os fundamentos da lógica de programação utilizando Portugol, uma linguagem didática que facilita a transição para linguagens como JavaScript, Java.
 
 ---
 
