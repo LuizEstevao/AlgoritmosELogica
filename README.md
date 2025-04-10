@@ -12,7 +12,7 @@ O curso **Profissão Developer** tem como objetivo formar profissionais com uma 
 
 ## 👨‍🏫 Professor
 
-**Isidro** – conhecido por sua didática clara e foco na lógica como pilar da programação. Ele conduz os alunos de forma progressiva, incentivando a prática contínua com exercícios variados.
+**Isidro** – conhecido por sua didática clara e foco na lógica como pilar da programação. Ele conduz os alunos de forma progressiva, incentivando a prática .
 
 ---
 
